@@ -1,3 +1,17 @@
+# ebay
+
+商品竞拍项目 主要功能包括：添加商品，商品竞标详情展示，竞标，揭标，仲裁，付款等流程
+
+本项目使用truffle框架+webpack开发
+注：使用exec seeds.js快速添加商品
+
+下面是执行方式：
+
+
+
+
+
+
 # Webpack Truffle Box
 
 This box is our most bare official implementation with Webpack.
